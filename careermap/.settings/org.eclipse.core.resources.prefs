@@ -3,3 +3,4 @@ encoding//careermap/items.py=utf-8
 encoding//careermap/middlewares.py=utf-8
 encoding//careermap/pipelines.py=utf-8
 encoding//careermap/settings.py=utf-8
+encoding//careermap/spiders/linkedin.py=utf-8
